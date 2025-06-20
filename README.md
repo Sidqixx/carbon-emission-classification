@@ -25,4 +25,4 @@ The analysis uses two datasets:
 - Random Forest outperforms Decision Tree in classification accuracy.
 - Countries with similar GDPs can have very different emission patterns depending on energy policy and population density.
 
-- [📄 View Final Report (Google Drive)]([https://drive.google.com/file/d/FILE_ID/view](https://drive.google.com/drive/folders/1_f7q5pP7rcMLzqhdltgCOQns9SnUbtLL?usp=sharing))
+- [📄 View Final Report:https://drive.google.com/drive/folders/1_f7q5pP7rcMLzqhdltgCOQns9SnUbtLL?usp=sharing]
