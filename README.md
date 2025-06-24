@@ -18,7 +18,6 @@ The analysis uses two datasets:
 - Python (Pandas, Scikit-Learn, Seaborn, Matplotlib)
 - Machine Learning models: Decision Tree, Random Forest
 - Jupyter Notebook
-- Git & GitHub
 
 ## Key Insights
 - Fuel prices and urbanization are top predictors of CO2 emission levels.
