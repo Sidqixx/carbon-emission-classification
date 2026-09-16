@@ -351,12 +351,6 @@ carbon-emission-classification/
 
 ---
 
-## Repository
-
-GitHub: https://github.com/Sidqixx/carbon-emission-classification
-
----
-
 ## Project Type
 
 Exploratory Machine Learning / Classification
